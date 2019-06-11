@@ -1,2 +1,2 @@
 # AndroidApp
-## My first Android App written in Kodlin ## 
+## My first Android App written in Kotlin ## 
